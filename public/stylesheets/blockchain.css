@@ -1,4 +1,5 @@
 html {
+
   position: relative;
   min-height: 100%;
   height: 100%;
@@ -6,6 +7,7 @@ html {
 
 body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: skyblue;
   height: 100%;
 }
 
@@ -30,11 +32,11 @@ input {
 }
 
 .well-success {
-  background: rgb(223, 240, 216);
+  background: rgb(223, 240, 288);
 }
 
 .well-error {
-  background: rgb(250, 220, 220);
+  background: rgb(250, 220, 227);
 }
 
 .github-ribbon {

@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anders94/blockchain-demo.git"
+    "url": "git+https://github.com/AnubhavMadhav/Blockchain-Demo-Project"
   },
   "bugs": {
-    "url": "https://github.com/anders94/blockchain-demo/issues"
+    "url": "https://github.com/AnubhavMadhav/Blockchain-Demo-Project"
   },
   "license": "MIT",
   "dependencies": {
@@ -28,11 +28,11 @@
     "debug": ">=2.6.9",
     "express": "^4.17.1",
     "i18n": "0.8.3",
-    "pug": "^3.0.1",
     "morgan": ">=1.9.1",
+    "pug": "^3.0.1",
     "serve-favicon": "^2.5.0"
   },
-  "homepage": "https://github.com/anders94/blockchain-demo#readme",
+  "homepage": "https://github.com/AnubhavMadhav/Blockchain-Demo-Project",
   "maintainers": [
     {
       "name": "anders",
