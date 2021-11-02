@@ -9,5 +9,11 @@
 	"Nonce": "Nonce",
 	"Data": "Data",
 	"Prev": "Prev",
-	"Mine": "Mine"
+	"Mine": "Mine",
+	"Distributed Blockchain": "Distributed Blockchain",
+	"Peer": "Peer",
+	"Tx": "Tx",
+	"$": "$",
+	"From": "From",
+	"Coinbase Transactions": "Coinbase Transactions"
 }
